@@ -8,4 +8,4 @@ main.o: main.cpp eloc.h
 	g++ -c main.cpp
 
 clean:
-	rm *.o
+	rm elo *.o
